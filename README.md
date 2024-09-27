@@ -1,6 +1,6 @@
 # AI Flashcards
 
-This project is an AI-powered flashcard application that helps you learn and remember information more effectively. This app was built using Next.js, Clerk, Firebase, Gemini and Stripe.
+This project is an AI-powered flashcard application that helps you learn and remember information more effectively. This app was built using Next.js, Clerk, Firebase, Gemini.
 
 
 ## Getting Started
